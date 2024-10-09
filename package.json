@@ -1,0 +1,16 @@
+{
+  "name": "path-normalization",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "esbuild": "node esbuild.js",
+    "rolldown": "node rolldown.js"
+  },
+  "author": "sapphi-red (https://github.com/sapphi-red)",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "esbuild": "^0.24.0",
+    "rolldown": "^0.13.2"
+  }
+}
